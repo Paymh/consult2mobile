@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "fr.drangies.cordova.serial": {
+      "PACKAGE_NAME": "com.Paymh.consult2mobile"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.Paymh.consult2mobile"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.Paymh.consult2mobile"
+    }
+  },
+  "dependent_plugins": {}
+}

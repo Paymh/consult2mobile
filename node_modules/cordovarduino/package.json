@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordovarduino",
+        "scope": null,
+        "escapedName": "cordovarduino",
+        "name": "cordovarduino",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Lachlan Horsey\\Desktop\\android-serial-test\\consult2mobile"
+    ]
+  ],
+  "_from": "cordovarduino@latest",
+  "_id": "cordovarduino@0.0.8",
+  "_inCache": true,
+  "_location": "/cordovarduino",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordovarduino-0.0.8.tgz_1475759426329_0.2026213756762445"
+  },
+  "_npmUser": {
+    "name": "xavier.seignard",
+    "email": "xavier.seignard@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordovarduino",
+    "scope": null,
+    "escapedName": "cordovarduino",
+    "name": "cordovarduino",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordovarduino/-/cordovarduino-0.0.8.tgz",
+  "_shasum": "6a46e3736109072afbb9ba8b1eddccdab8a68b0e",
+  "_shrinkwrap": null,
+  "_spec": "cordovarduino",
+  "_where": "C:\\Users\\Lachlan Horsey\\Desktop\\android-serial-test\\consult2mobile",
+  "author": {
+    "name": "Xavier Seignard",
+    "email": "xavier.seignard@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xseignard/cordovarduino/issues"
+  },
+  "cordova": {
+    "id": "fr.drangies.cordova.serial",
+    "platforms": [
+      "android",
+      "ubuntu"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin to communicate with the android USB serial port",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6a46e3736109072afbb9ba8b1eddccdab8a68b0e",
+    "tarball": "https://registry.npmjs.org/cordovarduino/-/cordovarduino-0.0.8.tgz"
+  },
+  "gitHead": "223eb2bc8f78e660475964f327b424711081529b",
+  "homepage": "https://github.com/xseignard/cordovarduino#readme",
+  "keywords": [
+    "serial",
+    "arduino",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ubuntu"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "xavier.seignard",
+      "email": "xavier.seignard@gmail.com"
+    }
+  ],
+  "name": "cordovarduino",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseignard/cordovarduino.git"
+  },
+  "scripts": {},
+  "version": "0.0.8"
+}

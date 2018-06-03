@@ -1,0 +1,32 @@
+{
+  "name": "com.paymh.consult2mobile",
+  "displayName": "consult2mobile",
+  "version": "1.0.0",
+  "description": "A mobile app to read data through a serial cable plugged in via the device's OTG port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lachlan 'Paymh' Horsey",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-plugin-compat": "^1.2.0",
+    "cordova-plugin-geolocation": "^2.4.3",
+    "cordova-plugin-whitelist": "^1.3.2",
+    "cordovarduino": "0.0.8",
+    "fr.drangies.cordova.serial": "~0.0.7",
+    "cordova-android": "~6.3.0"
+  },
+  "cordova": {
+    "plugins": {
+      "fr.drangies.cordova.serial": {},
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-geolocation": {
+        "GEOLOCATION_USAGE_DESCRIPTION": "Used for retrieving geolocation."
+      }
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
